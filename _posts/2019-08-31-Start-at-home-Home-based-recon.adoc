@@ -1,0 +1,24 @@
+= Start at home. Home-based recon.
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+They tell you not to "sh*t where you eat," but there's no better place to begin your recon. Hear me out:
+
+* It will help establish best practices -- for the recon itself, for data storage, for exercising caution and for remaining invisible.
+
+* It's good to know your neighbors. People are seldom exactly who they present themselves as to the world.
+
+* You might find something you can use later.
+
+Some starting points:
+
+Every house in the immediate vicinity -- who owns it? Who lives there? What cars are usually seen there? Any visible security? Who has the Ring cameras? Who has the security company signs?
+
+Follow up on every individual enumerated in the last step. Store whatever data you find. Leave placeholders for other people you might want to follow up on.  Name(s)? Age? Employers? Hobbies? Court records?
+
+Enumerate every wifi you can see. Hint: You can see more with a Pineapple. Try and deduce which Wifi belongs to which home. In some cases it will be obvious. BONUS: Collect WPA passwords for each. You might need them later.
+
+These tasks should keep you busy for a while, and give you more data to follow up on.  Come back when you've done that.
