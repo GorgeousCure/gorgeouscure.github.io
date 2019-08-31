@@ -1,1 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://GorgeousCure.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 31 Aug 2019 11:29:18 GMT</lastBuildDate><atom:link href="https://GorgeousCure.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://GorgeousCure.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 31 Aug 2019 11:37:25 GMT</lastBuildDate><atom:link href="https://GorgeousCure.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Start at home. Home-based recon.]]></title><description><![CDATA[<div class="paragraph">
+<p>They tell you not to "sh*t where you eat," but there&#8217;s no better place to begin your recon. Hear me out:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>It will help establish best practices&#8201;&#8212;&#8201;for the recon itself, for data storage, for exercising caution and for remaining invisible.</p>
+</li>
+<li>
+<p>It&#8217;s good to know your neighbors. People are seldom exactly who they present themselves as to the world.</p>
+</li>
+<li>
+<p>You might find something you can use later.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Some starting points:</p>
+</div>
+<div class="paragraph">
+<p>Every house in the immediate vicinity&#8201;&#8212;&#8201;who owns it? Who lives there? What cars are usually seen there? Any visible security? Who has the Ring cameras? Who has the security company signs?</p>
+</div>
+<div class="paragraph">
+<p>Follow up on every individual enumerated in the last step. Store whatever data you find. Leave placeholders for other people you might want to follow up on.  Name(s)? Age? Employers? Hobbies? Court records?</p>
+</div>
+<div class="paragraph">
+<p>Enumerate every wifi you can see. Hint: You can see more with a Pineapple. Try and deduce which Wifi belongs to which home. In some cases it will be obvious. BONUS: Collect WPA passwords for each. You might need them later.</p>
+</div>
+<div class="paragraph">
+<p>These tasks should keep you busy for a while, and give you more data to follow up on.  Come back when you&#8217;ve done that.</p>
+</div>]]></description><link>https://GorgeousCure.github.io/2019/08/31/Start-at-home-Home-based-recon.html</link><guid isPermaLink="true">https://GorgeousCure.github.io/2019/08/31/Start-at-home-Home-based-recon.html</guid><pubDate>Sat, 31 Aug 2019 00:00:00 GMT</pubDate></item></channel></rss>
