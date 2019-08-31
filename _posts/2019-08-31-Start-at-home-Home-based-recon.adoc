@@ -22,3 +22,5 @@ Follow up on every individual enumerated in the last step. Store whatever data y
 Enumerate every wifi you can see. Hint: You can see more with a Pineapple. Try and deduce which Wifi belongs to which home. In some cases it will be obvious. BONUS: Collect WPA passwords for each. You might need them later.
 
 These tasks should keep you busy for a while, and give you more data to follow up on.  Come back when you've done that.
+
+You will find that you are learning things on your own, like how you like your information stored. Maybe you like it in a spreadsheet. Maybe you develop your own relational database to store and link people, places and things. Maybe you write them all in a notebook. Maybe you'll accidentally leave that notebook at a neighborhood playground and scare the bejesus out of some poor civilian.
